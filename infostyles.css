@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(255, 232, 232);
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: "Stint Ultra Condensed", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(236, 9, 9);
+}
+
+.summary {
+    text-align: center;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+}
+
+h2 {
+    font-size: 45px;
+    text-align: center;
+    font-family: "Stint Ultra Condensed", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(236, 9, 9);
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    font-family: "Stint Ultra Condensed", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(8, 8, 8);
+}
+
+main {
+    text-align: center;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+}
+
+footer {
+    text-align: center;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(26, 25, 25);
+}
+
+.stream {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.stream h3 {
+    margin: 0;
+}
